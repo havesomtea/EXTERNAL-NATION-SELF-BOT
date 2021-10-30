@@ -3,7 +3,7 @@
 
 # Setup
   - Since it's discontinuted and some good guy (trickstr) decided to make a video tutorial about it
-  - There are the steps: https://www.youtube.com/watch?v=Sqwdlvr5xvo
+  - There are the support servers : (https://discord.gg/enop)
 
 # Legality
 
@@ -11,7 +11,7 @@ Everything you can see here has been made for educational purposes and proof of 
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Alucard-Selfbot/Alucard-Selfbot-src)](https://repl.it/github/Alucard-Selfbot/Alucard-Selfbot-src)
+[![Run on Repl.it](https://replit.com/@romeooooo/ROMEOplayZ-Nuker#main.py)
 
 ##### thanks for the yt vid ~ Fweak
 
